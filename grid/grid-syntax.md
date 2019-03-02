@@ -18,4 +18,3 @@ On the child elements, we use the all-powerful `grid-area`, which is like a Swis
 }
 ```  
 
-[[ codepen example ]]
