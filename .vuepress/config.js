@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Curriculums',
-  description: 'Just playing around',
+  description: 'A series of guides for working as a modern front-end developer or designer',
   themeConfig: {
     search: false,
     nav: [
