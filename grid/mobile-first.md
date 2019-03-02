@@ -12,3 +12,4 @@ After you have that locked in, add some styles. Then, expand the screen until th
   
 Keep expanding and rearranging content until you hit your max-width or the largest screen you can plan for.  
   
+[[ codepen example ]]

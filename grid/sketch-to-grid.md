@@ -22,3 +22,7 @@ That might seem like overkill until you get a request from a designer that a chi
   grid-area: 1 / 8 / 1 / span 7;
 }
 ```
+
+[[ sketch image of grid ]]
+
+[[ codepen realizing that grid ]]

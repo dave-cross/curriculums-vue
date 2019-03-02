@@ -2,3 +2,4 @@
   
 Similar to split hero.  
   
+[[ codepen example ]]

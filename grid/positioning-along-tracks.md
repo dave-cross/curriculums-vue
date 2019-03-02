@@ -40,3 +40,4 @@ Note that we declare this in (English) reading direction: row start / column sta
 
 `grid-area` is really the secret ingredient for what I do with Grid, so it’s definitely worth reading through the MDN docs for it.
 
+[[ codepen example ]]

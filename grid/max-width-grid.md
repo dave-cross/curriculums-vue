@@ -14,3 +14,4 @@ With grid we can manage the max-width from within our grid declarations. The sec
 }
 ```
 
+[[ codepen example ]]

@@ -4,3 +4,4 @@ Flexbox and Grid can live together. This isn’t a “one or the other” deal. 
   
 Don’t throw out older tools. They can still be useful.  
   
+[[ codepen example of layout that can't be done with Grid ]]

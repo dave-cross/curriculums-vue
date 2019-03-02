@@ -6,3 +6,4 @@ While a basic video hero doesn’t need much to get it done, hero components are
   
 But grid can still help us.  
   
+[[ codepen example ]]

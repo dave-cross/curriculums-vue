@@ -35,3 +35,4 @@ Notice how most of the styles are on the parent.  This is the power of Grid. We�
 
 Creating hero components this way doesn’t guarantee that items will maintain their overlap, but it’s definitely easier to write media queries.
 
+[[ codepen example ]]

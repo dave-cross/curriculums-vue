@@ -31,3 +31,4 @@ Cleaner mark-up. From here, we use `calc()` and padding:
 
 I prefer the second version for its succinct code style, but whichever you use, be consistent.
 
+[[ codepen example ]]

@@ -6,3 +6,4 @@ Add media queries to the parent and change `grid-template-areas`. It’s more ef
   
 If your media queries are contained inside your grid rule block, some things don’t need to be passed into the query. Autoprefixer will pick up on `grid-gap` if it’s part of the same rule-set.  
   
+[[ codepen example ]]

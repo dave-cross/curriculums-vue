@@ -7,6 +7,8 @@ But there might be times in the future where this isn’t the case. A lot of sit
 But early versions of Edge also use the old Grid syntax **and** support `@supports`, so they’ll display errors if you try to use newer Grid syntax and feature queries.  
   
 Luckily, the solution is just to change the feature query to `@supports( grid-auto-rows: 0)`, which tests against newer syntax rules instead of generic Grid support.  
+
+[[ add codepen example ]]
   
 ----  
   

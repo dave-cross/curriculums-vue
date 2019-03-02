@@ -35,3 +35,4 @@ Flexbox is amazing. It has so many powerful features built into. The challenge c
   
 The new kid. Makes grids so easy. That is it’s namesake after all. Supported all the way back to IE10, but not with the newer syntax. Missing features in IE like auto-flow make people scratch their heads at how to make it all work. But you can prefix and use feature detection to set fallbacks. Or you can use the strengths supported by all browsers and use flexbox for the rest.  
   
+[[ codepen example ]]

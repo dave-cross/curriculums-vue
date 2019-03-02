@@ -8,3 +8,4 @@ grid-gap: 2rem;
 
 `grid-gap` can take two different measurements: row-gap and column-gap (respectively… you’ll see this order a lot. Try to remember that it’s “run before rise”). This is the better option for when you’re trying to match row gaps to vertical rhythm.
 
+[[ codepen example ]]
