@@ -1,0 +1,30 @@
+{
+  "pickerFormat" : {
+    "function" : "concat",
+    "y" : "#hex[red]hex[green]hex[blue]",
+    "x" : "[name]: "
+  },
+  "sip" : {
+    "build" : "201",
+    "version" : "2.0.1"
+  },
+  "name" : "SCSS Colour Declaration",
+  "clipboardFormat" : {
+    "function" : "concat",
+    "y" : ": HSLA(css[hue], css[saturation]%, css[lightness]%, css[alpha]) \/\/ #hex[red]hex[green]hex[blue]\n",
+    "x" : {
+      "y" : " ",
+      "function" : "strreplace",
+      "x" : {
+        "x" : "$color-[name]",
+        "function" : "lower"
+      },
+      "z" : "_"
+    }
+  },
+  "menuFormat" : {
+    "function" : "concat",
+    "y" : "#hex[red]hex[green]hex[blue]",
+    "x" : "[name]: "
+  }
+}

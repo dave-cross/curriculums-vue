@@ -1,0 +1,26 @@
+{
+  "pickerFormat" : {
+    "function" : "concat",
+    "y" : "#hex[red]hex[green]hex[blue]",
+    "x" : "[name]: "
+  },
+  "sip" : {
+    "build" : "201",
+    "version" : "2.0.1"
+  },
+  "name" : "SCSS Colour Call",
+  "clipboardFormat" : {
+    "z" : "_",
+    "x" : {
+      "x" : "$color-[name]",
+      "function" : "lower"
+    },
+    "y" : " ",
+    "function" : "strreplace"
+  },
+  "menuFormat" : {
+    "function" : "concat",
+    "y" : "#hex[red]hex[green]hex[blue]",
+    "x" : "[name]: "
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "curriculums-2",
+  "version": "1.0.0",
+  "description": "This is a series of curriculums I'm in the process of creating. When finished it will be screencasts accompanied by this text, codepen demos, and any other resources I can think of along the way.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev",
+    "docs:build": "vuepress build"
+  },
+  "author": "David Cross",
+  "devDependencies": {
+    "vuepress": "^0.14.9"
+  }
+}
