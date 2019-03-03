@@ -16,13 +16,12 @@ The styles are very direct:
 ```css
 .parent {
   display:grid;
-  grid-template-columns:1fr;
   grid-template-areas: “a”;
-  align-items: center;
-  justify-items: center;
 }
 .parent > * {
   grid-area: a;
+  align-self: center;
+  justify-self: center;
 }
 .parent > *:first-child {
   z-index:2;
@@ -35,4 +34,10 @@ Notice how most of the styles are on the parent.  This is the power of Grid. We�
 
 Creating hero components this way doesn’t guarantee that items will maintain their overlap, but it’s definitely easier to write media queries.
 
-[[ codepen example ]]
+<p class="codepen" data-height="421" data-theme-id="0" data-default-tab="result" data-user="davecross" data-slug-hash="f099fb29394f427429424d5e7c5f553f" style="height: 421px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Grid Video Hero">
+  <span>See the Pen <a href="https://codepen.io/davecross/pen/f099fb29394f427429424d5e7c5f553f/">
+  Grid Video Hero</a> by Dave Cross (<a href="https://codepen.io/davecross">@davecross</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+
+<codepen/>

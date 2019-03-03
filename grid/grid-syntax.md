@@ -1,4 +1,4 @@
-# Grid Template Areas
+# Grid Template Syntaxs
 
 Unlike traditional layout methods where most of the positioning styles happen on the child elements, Grid builds from the outside in. We set up the grid on the parent element and then “hang” child elements on that grid.
 
@@ -18,3 +18,10 @@ On the child elements, we use the all-powerful `grid-area`, which is like a Swis
 }
 ```  
 
+<p class="codepen" data-height="400" data-theme-id="0" data-default-tab="css,result" data-user="davecross" data-slug-hash="12a923e8e7a99d9e790355b6afdf9888" style="height: 400px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Grid syntax basics">
+  <span>See the Pen <a href="https://codepen.io/davecross/pen/12a923e8e7a99d9e790355b6afdf9888/">
+  Grid syntax basics</a> by Dave Cross (<a href="https://codepen.io/davecross">@davecross</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+
+<codepen/>
