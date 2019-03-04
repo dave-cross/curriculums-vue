@@ -60,6 +60,7 @@ module.exports = {
         'grid-video-hero-01',
         'at-supports-and-fallbacks',
         'grid-gap',
+        'grid-functions',
         'positioning-along-tracks',
         'grid-video-hero-02',
         'grid-media-queries',
