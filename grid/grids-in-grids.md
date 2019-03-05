@@ -18,3 +18,10 @@ Lining up grids inside of grids requires that the outside number of columns _use
 +------+------+------+------+------+------+  
 ```  
 
+I've used this most when the child element's mark-up is buried inside the child element. Carousels are most common here since they add a lot of internal mark-up to make themselves work, but we still want things to align to the grid.
+
+![Carousel in Grid](/images/grid/grid-in-grid-01.png)
+
+If we use Firefox's devtools, it's easy to see how the inner grid has been made to match the outer grid.
+
+![Visualizing grids in grids with Firefox](/images/grid/grid-in-grid-02.png)

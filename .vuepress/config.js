@@ -50,7 +50,7 @@ module.exports = {
       ],
 
       '/grid/': [
-        '',      /* /bar/ */
+        '',
         'positioning-methods',
         'grid-with-autoprefixer',
         'flex-alternatives',
@@ -75,7 +75,6 @@ module.exports = {
         'mobile-first-grid',
         'grid-video-hero-03',
         'grid-card',
-        'grid-address-block',
       ],
     }
   }

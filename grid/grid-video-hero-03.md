@@ -35,4 +35,8 @@ Using Grid opens up some unique source order options.
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 
+::: tip Tip
+`::before` and `::after` are first-class citizens in Grid. If you dig into the demo code, you'll see I used one of them to create the fade on the image.
+:::
+
 <codepen/>
