@@ -31,4 +31,10 @@ Cleaner mark-up. From here, we use `calc()` and padding:
 
 I prefer the second version for its succinct code style, but whichever you use, be consistent.
 
-[[ codepen example ]]
+<p class="codepen" data-height="265" data-theme-id="0" data-default-tab="result" data-user="davecross" data-slug-hash="20f9929a1e317fa90aa09d0bdd00c009" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="&amp;amp;quot;Row-less&amp;amp;quot; Container">
+  <span>See the Pen <a href="https://codepen.io/davecross/pen/20f9929a1e317fa90aa09d0bdd00c009/">
+  &amp;quot;Row-less&amp;quot; Container</a> by Dave Cross (<a href="https://codepen.io/davecross">@davecross</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+
+<codepen/>
