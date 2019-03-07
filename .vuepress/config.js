@@ -75,6 +75,7 @@ module.exports = {
         'mobile-first-grid',
         'grid-video-hero-03',
         'grid-card',
+        'grid-easy-math',
       ],
     }
   }
