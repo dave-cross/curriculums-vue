@@ -1,4 +1,4 @@
-# Grid Template Syntaxs
+# Grid Template Syntax
 
 Unlike traditional layout methods where most of the positioning styles happen on the child elements, Grid builds from the outside in. We set up the grid on the parent element and then “hang” child elements on that grid.
 
