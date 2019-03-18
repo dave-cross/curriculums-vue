@@ -59,7 +59,9 @@ I feel like people rejected this method for two reasons:
 
 ### Display: Flex    
   
-Flexbox is amazing. It has so many powerful features built into. The challenge comes when you want flexible columns AND gaps. There is a new gap property for flex, but for now, we need extra margin and padding styles to achieve our grids.   
+Flexbox is amazing. It has so many powerful features built into. The challenge comes when you want flexible columns AND gaps. There is a new gap property for flex, but for now, we need extra margin and padding styles to achieve our grids.
+
+There's a second issue with using Flexbox: it wasn't truly designed to accept widths. Using `width` locks an element to a fixed size, removing the "flexible" nature that Flexbox provides.
 
 <p class="codepen" data-height="265" data-theme-id="0" data-default-tab="result" data-user="davecross" data-slug-hash="290629e78ad0566816a9a6598ad5409c" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="CSS Positioning Systems--Flexbox">
   <span>See the Pen <a href="https://codepen.io/davecross/pen/290629e78ad0566816a9a6598ad5409c/">
