@@ -14,6 +14,20 @@ With grid we can manage the max-width from within our grid declarations. The sec
 }
 ```
 
+### Update!
+
+This math can be even easier and I'm not sure how I missed it the first time around.
+
+```css{6}
+.grid {
+  /* $gap: 2rem; */
+  /* $container-max-width: 900px */
+  /* grid-template-columns: 1fr repeat(12, minmax(0, #{($container-max-width - (11 * $gap) / 12)})) 1fr; */
+
+  grid-template-columns: 1fr repeat(12, minmax(0, calc((900px - (11 * 2rem)) / 12))) 1fr;
+}
+```
+
 <p class="codepen" data-height="265" data-theme-id="0" data-default-tab="result" data-user="davecross" data-slug-hash="1b19bec728e4aaad1e938183d3ca086b" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Grid with Max-width">
   <span>See the Pen <a href="https://codepen.io/davecross/pen/1b19bec728e4aaad1e938183d3ca086b/">
   Grid with Max-width</a> by Dave Cross (<a href="https://codepen.io/davecross">@davecross</a>)

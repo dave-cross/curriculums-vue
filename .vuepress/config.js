@@ -71,11 +71,11 @@ module.exports = {
         'max-width-containers',
         'max-width-grid',
         'grids-in-grids',
+        'grid-easy-math',
         'mobile-first',
         'mobile-first-grid',
         'grid-video-hero-03',
         'grid-card',
-        'grid-easy-math',
       ],
     }
   }
