@@ -70,6 +70,7 @@ module.exports = {
         'grid-margins-padding',
         'max-width-containers',
         'max-width-grid',
+        'outside-padding-on-max-width-grid',
         'grids-in-grids',
         'grid-easy-math',
         'mobile-first',
