@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Curriculums',
+  title: 'Today I Learned',
   description: 'A series of guides for working as a modern front-end developer or designer',
   themeConfig: {
     search: false,
