@@ -7,3 +7,5 @@ node_modules/
 
 # Book build output
 .vuepress/dist
+.vuepress/.cache/
+.vuepress/.temp/

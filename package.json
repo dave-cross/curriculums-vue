@@ -9,6 +9,6 @@
   },
   "author": "David Cross",
   "devDependencies": {
-    "vuepress": "next"
+    "vuepress": "^1.8.0"
   }
 }
