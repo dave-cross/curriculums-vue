@@ -34,13 +34,4 @@ This is a series of curriculums I'm in the process of creating. When finished it
 
 It is a bit of a living document and the lessons are designed to be reordered and added to as my experience in Educational Design grows.
 
-<hr style="margin: 3rem 0;">
-
-![versett](/images/logo-versett.svg)
-
-I am so thankful to work for a company that encourages learning as part of culture. Interested in working with us?
-
-Versett is designed to be a place for doing meaningful work. Our team is tight-knit and dedicated to building great products. Send us something you’ve made that you’re proud of and we’ll be in touch.
-
-[We're hiring](https://versett.com/careers/)
 
