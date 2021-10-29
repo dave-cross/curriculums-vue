@@ -4,7 +4,7 @@
 
 Start by clicking the menu bar arrow and then the _burger_ icon. Select _Custom Format,_ which should show a window for making your new creation.
 
-![Sip custom format window](/images/colour/sip-custom-format-window.png)
+![Sip custom format window](./files/sip-custom-format-window.png)
 
 In the custom format modal, you can add functions and text in a JSON format. All the available customizations outside of text are in the help dropdown and can easily be copy/pasted into place.
 
@@ -18,41 +18,41 @@ In _Sip 1_ used to allow a plain string with valid placeholders. That's no longe
 
 ```json
 {
-  "function" : "concat",
-  "x" : "[name]: ",
-  "y" : "#hex[red]hex[green]hex[blue]"
+  "function": "concat",
+  "x": "[name]: ",
+  "y": "#hex[red]hex[green]hex[blue]"
 }
 ```
 
-### [SCSS Variable declaration](/extra/SCSS-Colour-Declaration.format)
+### SCSS Variable declaration
 
 ```json
 {
-  "function" : "concat",
-  "x" : {
-    "y" : " ",
-    "function" : "strreplace",
-    "x" : {
-      "x" : "$color-[name]",
-      "function" : "lower"
+  "function": "concat",
+  "x": {
+    "y": " ",
+    "function": "strreplace",
+    "x": {
+      "x": "$color-[name]",
+      "function": "lower"
     },
-    "z" : "_"
+    "z": "_"
   },
-  "y" : ": HSLA(css[hue], css[saturation]%, css[lightness]%, css[alpha]) \/\/ #hex[red]hex[green]hex[blue]\n"
+  "y": ": HSLA(css[hue], css[saturation]%, css[lightness]%, css[alpha]) // #hex[red]hex[green]hex[blue]\n"
 }
 ```
 
-### [SCSS Variable Call](/extra/SCSS-Colour-Call.format)
+### SCSS Variable Call
 
 ```json
 {
-  "z" : "_",
-  "x" : {
-    "x" : "$color-[name]",
-    "function" : "lower"
+  "z": "_",
+  "x": {
+    "x": "$color-[name]",
+    "function": "lower"
   },
-  "y" : " ",
-  "function" : "strreplace"
+  "y": " ",
+  "function": "strreplace"
 }
 ```
 

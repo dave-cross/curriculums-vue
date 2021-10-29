@@ -1,6 +1,6 @@
 # Sip: Getting Started
 
-![The Sip Logo](/images/colour/logo-sip.svg)
+![The Sip Logo](./files/logo-sip.svg)
 
 [Sip](http://sipapp.io/) is a palette manager that lives in your menu bar and as a discreet “dock” on the edge of your screen. It allows you to collect, share, and use colours in various apps.
 
@@ -8,4 +8,4 @@ The great thing is that it can be used by both designers and developers, adding 
 
 The settings include a bunch of different options for shortcuts, visible formats, number of palettes in the dock and backups (called snapshots).
 
-![Sip preferences](/images/colour/sip-preferences-topbar.gif)
+![Sip preferences](./files/sip-preferences-topbar.gif)

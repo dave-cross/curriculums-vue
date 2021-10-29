@@ -7,7 +7,7 @@ Where Grid has gotten interesting for me is in how I can match mock-ups with alm
   grid-gap: 2rem;
   display: grid;
   grid-template-columns: repeat(12, 1fr);
-  grid-template-areas: “a a a a b b b b c c c c”
+  grid-template-areas: “a a a a b b b b c c c c”;
 }
 ```
 
@@ -29,13 +29,14 @@ That might seem like overkill until you get a request from a designer that a chi
 }
 ```
 
-![Sketch to Firefox](/images/grid/sketch-to-firefox.jpg)
+![Sketch to Firefox](./files/sketch-to-firefox.jpg)
 
 ::: tip Tip
 Nobody is forcing you to make 2 dimensional grids. I feel like this is part of the confusion with them. Almost every tutorial I see has grids going horizontal **and** vertical. Most of my grids stay in one direction.
 
 You'll notice that the grid in the image is set up as _half and half_, to which we then we make adjustments. My current workflow tries to generate base grids for as many _common_ layouts as possible so I don't have to make too many adjustments later.
 :::
+
 <p class="codepen" data-height="464" data-theme-id="0" data-default-tab="result" data-user="davecross" data-slug-hash="30994040906b4cb6ecb2d3a3b05cd6c9" style="height: 464px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Sketch to Grid">
   <span>See the Pen <a href="https://codepen.io/davecross/pen/30994040906b4cb6ecb2d3a3b05cd6c9/">
   Sketch to Grid</a> by Dave Cross (<a href="https://codepen.io/davecross">@davecross</a>)
