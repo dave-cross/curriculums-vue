@@ -1,10 +1,10 @@
 # HSL
 
-With HSL (Hie, Saturation, Lightness), devs and designers have an easy way of coding colour values that is way easier to visualize; freeing dependence on apps
+With HSL (Hue, Saturation, Lightness), devs and designers have an easy way of coding colour values that is way easier to visualize; freeing dependence on apps
 
 Hue is a value from 0 to 360 degrees (around a circle). 0 (and 360) is red. 120 is green. And 240 is blue. We still have an RGB model, but it’s easier to start visualizing colours as part of “rainbow” order.
 
-![HSL Color Wheel](/images/colour/HSL-color-wheel.png)
+![HSL Color Wheel](./files/HSL-color-wheel.png)
 
 Saturation is from 0 to 100%. This determines whether the colour is grey, dull shades, or vibrant colour.
 
@@ -20,13 +20,13 @@ So, if we go back to our yellow-green example, we can quickly guess `hsl(75, 60%
 
 Unlike a traditional colour wheel, the primary colours of this hue wheel are red, green, and blue. In an interesting twist, the secondary colours are cyan, magenta, and yellow (the primary colours of CMYK, used in print).
 
-![Primary colors](/images/colour/HSL-primary-colors.png)
-![Seconday colors](/images/colour/HSL-secondary-colors.png)
+![Primary colors](./files/HSL-primary-colors.png)
+![Seconday colors](./files/HSL-secondary-colors.png)
 
 And there’s even more power in this colour wheel. All the “warm” colours are at the top (270-90) while all the “cool” colours are on the bottom of the wheel (90-270).
 
-![Warm colors](/images/colour/HSL-warm-colors.png)
-![Cool colors](/images/colour/HSL-cool-colors.png)
+![Warm colors](./files/HSL-warm-colors.png)
+![Cool colors](./files/HSL-cool-colors.png)
 
 It’s easy to gain a comfortable mastery over HSL in under an hour. More importantly, it gives designers and developers a common, empirical method of describing colour in code. Any tools/methods that are cross-discipline are an immediate win in my books.
 

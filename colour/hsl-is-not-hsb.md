@@ -8,7 +8,7 @@ Which will confuse and frustrate.
 
 The hue wheel remains the same but saturation is from black to full colour and brightness is from white to full colour.
 
-![HSL and HSB displays](/images/colour/HSL-HSB.jpg)
+![HSL and HSB displays](./files/HSL-HSB.jpg)
 
 There is complex math that allows us to translate the two, but it’s easier to use the browser or set hex values in an app like sip and let them be translated for you. A good site for translating values is [convertingcolors.com](https://convertingcolors.com).
 
