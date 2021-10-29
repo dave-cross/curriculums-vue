@@ -8,4 +8,4 @@ Clicking any colour in the dock copies that to the clipboard. Then, you can past
 
 If you are using Sketch, Photoshop, or Illustrator (and possibly others, but you’ll have to test and there are no guarantees), you can cmd+click a colour to add it as a fill (or foreground colour in PS). cmd+shift+clicking changes the stroke to the selected colour (or sets the background colour chip if in PS).
 
-![Sip to Sketch](/images/colour/sip-to-sketch.gif)
+![Sip to Sketch](./files/sip-to-sketch.gif)
