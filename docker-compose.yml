@@ -8,7 +8,7 @@ services:
     # environment:
     #   - NODE_ENV=development
     ports:
-      - "8080"
+      - "8080:8080"
     volumes:
       - ./:/app
     command: sh -c "[ ! -d node_modules ] && npm install; npm run docs:dev"
