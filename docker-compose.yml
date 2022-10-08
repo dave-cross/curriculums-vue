@@ -2,7 +2,7 @@ version: "2.4"
 
 services:
   appserver:
-    image: node:14-slim
+    image: node:14-alpine
     # user: node
     working_dir: /app
     # environment:
