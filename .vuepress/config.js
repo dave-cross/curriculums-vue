@@ -11,7 +11,7 @@ module.exports = {
       { text: "CSS Grid", link: "/grid/" },
     ],
     sidebar: {
-      "/html/": ["", "html-quickstart", "what-is-html"],
+      "/html/": ["", "what-is-html", "html-quickstart"],
 
       "/colour/": [
         "",
