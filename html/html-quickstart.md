@@ -105,3 +105,7 @@ We also have the option of putting any list inside of any other list.
 That's a good question. The short answer is that almost no "HTML app" has gotten the code right. They all result in extra code that will be hard to debug and harder to style.
 
 By learning to code and mark up your html, you ensure that your website is displayed exactly as you intended. No extra cruft, and no extra fluff.
+
+## Challenge
+
+You have all the tools needed for coding a basic resume or CV. It’ll probably look ugly, and that’s okay — we haven’t learned how to style things yet. With headings, paragraphs, and lists, we have a solid foundation and can do quite a bit already. 
